@@ -1,0 +1,18 @@
+[project]
+name = "vector-search"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "azure-ai-inference>=1.0.0b9",
+    "azure-identity>=1.25.1",
+    "azure-search-documents>=11.6.0",
+    "chromadb>=1.1.1",
+    "openai>=2.3.0",
+    "pandas>=2.3.3",
+    "python-dotenv>=1.1.1",
+    "qdrant-client>=1.15.1",
+    "sentence-transformers>=5.1.1",
+    "tqdm>=4.67.1",
+]
