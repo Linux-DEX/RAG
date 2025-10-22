@@ -1,0 +1,15 @@
+Title: Principles of Aerodynamics
+
+Aerodynamics is the study of the motion of air, particularly when it interacts with a solid object such as an airplane wing.
+
+Key concepts:
+- Lift: The force that directly opposes the weight of an aircraft.
+- Drag: The resistance force caused by the shape of the object and air viscosity.
+- Thrust: The force that moves the aircraft forward.
+- Bernoulli's Principle: Explains how pressure differences create lift.
+
+Applications:
+- Aircraft design
+- Automotive engineering
+- Wind turbine optimization
+

@@ -1,0 +1,6 @@
+[10:03 AM] Alice: Hey, are you coming to the meeting later today?
+[10:04 AM] Bob: Yep, I’ll be there at 2 PM.
+[10:05 AM] Alice: Great, don't forget to bring the slides for your part.
+[10:06 AM] Bob: Already done :) Looking forward to your presentation too.
+[10:08 AM] Alice: Thanks! See you soon.
+

@@ -1,0 +1,8 @@
+2025-10-21 09:15:43 INFO Starting the data extraction process.
+2025-10-21 09:15:45 DEBUG Loaded configuration from config.yaml
+2025-10-21 09:15:50 WARNING Missing value for 'user_id' in record 2356
+2025-10-21 09:16:03 ERROR Failed to connect to database: Connection timeout
+2025-10-21 09:16:10 INFO Retrying connection...
+2025-10-21 09:16:12 INFO Connection successful. Proceeding with extraction.
+2025-10-21 09:16:45 INFO Extraction complete. Processed 12467 records.
+
